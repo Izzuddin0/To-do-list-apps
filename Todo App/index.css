@@ -1,0 +1,16 @@
+.title {
+    text-align: center;
+
+}
+.form {
+    text-align: center;
+}
+button:hover {
+    background-color:azure;
+}
+fieldset {
+ 
+}
+button {
+    cursor: pointer;
+}
